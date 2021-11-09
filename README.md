@@ -1,4 +1,4 @@
-# Predicting solubility
+# Predicting solubility of a molecule
 
 In this project, we will dive into the world of Cheminformatics which lies at the interface of Informatics and Chemistry. We will be reproducing a research article (by John S. Delaney) by applying Linear Regression to predict the solubility of molecules (i.e. solubility of drugs is an important physicochemical property in Drug discovery, design and development).
 
