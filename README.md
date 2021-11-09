@@ -12,3 +12,7 @@ This idea for this project was inspired by the excellent blog post by Pat Walter
 2.   Pat Walters. [Predicting Aqueous Solubility - It's Harder Than It Looks](http://practicalcheminformatics.blogspot.com/2018/09/predicting-aqueous-solubility-its.html). **Practical Cheminformatics Blog**
 3.   Bharath Ramsundar, Peter Eastman, Patrick Walters, and Vijay Pande. [Deep Learning for the Life S ciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More,](https://learning.oreilly.com/library/view/deep-learning-for/9781492039822/) **O'Reilly**, 2019.
 4.  [Supplementary file ](https://pubs.acs.org/doi/10.1021/ci034243x)from Delaney's ESOL:  Estimating Aqueous Solubility Directly from Molecular Structure.
+
+
+
+Give a ⭐️ if you like this project!
